@@ -49,3 +49,7 @@ samtools index tcp23410_3Aligned.out_sorted.bam
 rm *Aligned.out.bam
 rm *Aligned.out.sam
 
+mkdir BAM_Files
+
+mv *Aligned.out_sorted.bam BAM_Files
+mv  *Aligned.out_sorted.bam.bai BAM_Files
