@@ -1,0 +1,6 @@
+col0_1Aligned.out_sorted
+col0_2Aligned.out_sorted
+col0_3Aligned.out_sorted
+tcp23410_1Aligned.out_sorted
+tcp23410_2Aligned.out_sorted
+tcp23410_3Aligned.out_sorted

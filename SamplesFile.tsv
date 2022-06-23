@@ -1,0 +1,6 @@
+col0_1 /spliSER_process/col0_1Aligned.out_sorted.SpliSER.bed.SpliSER.tsv  /BAM_files/col0_1Aligned.out_sorted.bam
+col0_2 /spliSER_process/col0_2Aligned.out_sorted.SpliSER.bed.SpliSER.tsv  /BAM_files/col0_1Aligned.out_sorted.bam
+col0_3 /spliSER_process/col0_3Aligned.out_sorted.SpliSER.bed.SpliSER.tsv  /BAM_files/col0_1Aligned.out_sorted.bam
+tcp23410_1 /spliSER_process/tcp23410_1Aligned.out_sorted.SpliSER.bed.SpliSER.tsv  /BAM_files/col0_1Aligned.out_sorted.bam
+tcp23410_2 /spliSER_process/tcp23410_2Aligned.out_sorted.SpliSER.bed.SpliSER.tsv  /BAM_files/col0_1Aligned.out_sorted.bam
+tcp23410_3 /spliSER_process/tcp23410_3Aligned.out_sorted.SpliSER.bed.SpliSER.tsv  /BAM_files/col0_1Aligned.out_sorted.bam
